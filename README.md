@@ -22,6 +22,25 @@
 - #### Imagery
     - The product, actor Anthony Forrest, needs to be featured prominently on the website
 
+### Wireframes
+This is a 3 page website and was first created as a wireframe for mobile, then tablet, then computer (desktop and laptop) and will utilize bootstrap columns to display the information correctly on each page.
+
+- #### Mobile
+    - Page 1: [Store](https://github.com/asforrest/milestone-1-anthonyforrest/blob/master/Wireframes%20PNG/Mobile/Mobile%20-%20page%201%20-%20Store.png)
+    - Page 2: [News](https://github.com/asforrest/milestone-1-anthonyforrest/blob/master/Wireframes%20PNG/Mobile/Mobile%20-%20page%202%20-%20News.png)
+    - Page 3: [Contact](https://github.com/asforrest/milestone-1-anthonyforrest/blob/master/Wireframes%20PNG/Mobile/Mobile%20-%20page%203%20-%20Contact.png)
+
+- #### Tablet
+    - Page 1: [Store](https://github.com/asforrest/milestone-1-anthonyforrest/blob/master/Wireframes%20PNG/Tablet/Tablet%20Potrait%20-%20page%201%20-%20Store.png)
+    - Page 2: [News](https://github.com/asforrest/milestone-1-anthonyforrest/blob/master/Wireframes%20PNG/Tablet/Tablet%20Potrait%20-%20page%202%20-%20News.png)
+    - Page 3: [Contact](https://github.com/asforrest/milestone-1-anthonyforrest/blob/master/Wireframes%20PNG/Tablet/Tablet%20Potrait%20-%20page%203%20-Contact.png)
+
+- #### Computer (desktop and laptop)
+    - Page 1: [Store](https://github.com/asforrest/milestone-1-anthonyforrest/blob/master/Wireframes%20PNG/Tablet/Tablet%20Potrait%20-%20page%201%20-%20Store.png)
+    - Page 2: [News](https://github.com/asforrest/milestone-1-anthonyforrest/blob/master/Wireframes%20PNG/Tablet/Tablet%20Potrait%20-%20page%202%20-%20News.png)
+    - Page 3: [Contact](https://github.com/asforrest/milestone-1-anthonyforrest/blob/master/Wireframes%20PNG/Tablet/Tablet%20Potrait%20-%20page%203%20-Contact.png)
+
+
 ## Techonologies Used
 
 ### Languages User
