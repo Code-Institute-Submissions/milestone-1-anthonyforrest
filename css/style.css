@@ -1,9 +1,14 @@
+/* ---------------------------------------------- Navbar */
+.navbar a {
+    color: white;
+}
+
+
 /* ---------------------------------------------- Hero Image */
 .hero-image {
     height: 80vh;
     background-color: black;
     min-height: 300px;
-    min-width: 800px;
 }
 
 
@@ -29,8 +34,6 @@
 }
 
 .store-image {
-    max-width: 400px;
-    max-height: 400px;
     text-align: center;
 }
 
