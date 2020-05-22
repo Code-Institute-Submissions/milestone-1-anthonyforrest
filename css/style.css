@@ -1,0 +1,22 @@
+/* ---------------------------------------------- Hero Image */
+.hero-image {
+    height: 80vh;
+    background-color: black;
+    min-height: 300px;
+    min-width: 800px;
+}
+
+
+/* ---------------------------------------------- Intial Padding */
+
+.about-anthony,.upcoming-events,
+.store-heading {
+    padding: 15px;
+}
+
+
+/* ---------------------------------------------- Footer */
+
+.footer {
+    text-align: center;
+}
