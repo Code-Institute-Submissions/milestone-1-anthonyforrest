@@ -11,23 +11,28 @@
 
 .about-anthony{
     min-height: 300px;
-    background-color: blue;
+    background-color: #f8f9fa;
     padding: 50px;
 }
 
 .upcoming-events{
     min-height: 300px;
-    background-color: brown;
+    background-color: #f2f2f2;
     padding: 50px;
 }
 
 /* ---------------------------------------------- Store */
 .store{
     min-height: 300px;
-    background-color: azure;
+    background-color: #878e96;
     padding: 50px;
 }
 
+.store-image {
+    max-width: 400px;
+    max-height: 400px;
+    text-align: center;
+}
 
 /* ---------------------------------------------- Footer */
 
