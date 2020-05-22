@@ -7,11 +7,25 @@
 }
 
 
-/* ---------------------------------------------- Intial Padding */
+/* ---------------------------------------------- Info section (about/events) */
 
-.about-anthony,.upcoming-events,
-.store-heading {
-    padding: 15px;
+.about-anthony{
+    min-height: 300px;
+    background-color: blue;
+    padding: 50px;
+}
+
+.upcoming-events{
+    min-height: 300px;
+    background-color: brown;
+    padding: 50px;
+}
+
+/* ---------------------------------------------- Store */
+.store{
+    min-height: 300px;
+    background-color: azure;
+    padding: 50px;
 }
 
 
