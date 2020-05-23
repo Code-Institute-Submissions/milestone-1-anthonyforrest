@@ -1,3 +1,9 @@
+/* ---------------------------------------------- Fonts */
+
+body {
+font-family: 'Montserrat', sans-serif;
+}
+
 /* ---------------------------------------------- Navbar */
 .navbar a {
     color: white;
@@ -11,7 +17,7 @@
     -webkit-text-decoration-color: #AA3624;
 }
 
-/* ---------------------------------------------- Hero Image */
+/* ---------------------------------------------- Callout and Hero Image */
 .callout-container {
     height: 80vh;
     background: url('../images/hero/Hero001.png') no-repeat bottom right fixed;
@@ -19,11 +25,9 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
 }
 
@@ -38,7 +42,7 @@
 
 
 
-/* ---------------------------------------------- Info section (about/events) */
+/* ---------------------------------------------- About Anthony and Events */
 
 .about-anthony{
     min-height: 300px;
@@ -53,8 +57,7 @@
 }
 
 /* ---------------------------------------------- Store */
-.store{
-    min-height: 300px;
+.store-container{
     background-color: #878e96;
     padding: 50px;
 }
