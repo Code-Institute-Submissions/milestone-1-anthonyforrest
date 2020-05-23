@@ -4,6 +4,7 @@
 }
 
 .navbar-nav .current {
+    font-weight: 700;
     text-decoration: underline;
     /* following text-dectoration didn't work in Chrome, this is due to chrome requiring the -webkit prefix information about this was found at https://css-tricks.com/almanac/properties/t/text-decoration-color/ */
     text-decoration-color: #AA3624;
@@ -41,8 +42,18 @@
 
 .store-image {
     height: 300px;
-    width: auto;
+}
+
+.store-item{
     text-align: center;
+}
+
+.product-info {
+    margin: 10px auto;
+}
+
+.modal-body .modal-image{
+    margin: 50px 0px;
 }
 
 
@@ -51,6 +62,7 @@
   padding-bottom: 100%;
   position: relative;
 }
+
 .thumbnail > .img-responsive {
   max-width: 100%;
   max-height: 100%;
