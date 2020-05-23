@@ -3,6 +3,12 @@
     color: white;
 }
 
+.navbar-nav .current {
+    text-decoration: underline;
+    /* following text-dectoration didn't work in Chrome, this is due to chrome requiring the -webkit prefix information about this was found at https://css-tricks.com/almanac/properties/t/text-decoration-color/ */
+    text-decoration-color: #AA3624;
+    -webkit-text-decoration-color: #AA3624;
+}
 
 /* ---------------------------------------------- Hero Image */
 .hero-image {

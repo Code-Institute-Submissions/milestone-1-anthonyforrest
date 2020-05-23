@@ -19,6 +19,18 @@ This concept is being hosted on github, please use the following link to access 
 
 ### Design
 
+- #### color
+    - [Canva:](https://www.canva.com/colors/color-palette-generator/) was used to create a color pallete for this website from the logo. And the resulting color palette will be used for this project:
+    - Brown #AA3624
+    - Dark Salmon #DD9060
+    - Black #322122
+    - Beige #FBF9F5
+    - Dark Grey #A29892
+
+<b>Output from Canva:</b>
+
+<img src="images/readme/Canva-color-pallete.png" style="margin: 0;">
+
 - #### Imagery
     - The product, actor Anthony Forrest, needs to be featured prominently on the website
 
@@ -67,6 +79,8 @@ This is a 3 page website and was first created as a wireframe for mobile, then t
     - Photoshop was used to create the logo, resizing images and editing photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+1. [Canva:](https://www.canva.com/colors/color-palette-generator/)
+    - Canva was used to extract a color palette from the logo.
 
 ## Gitpod Reminders
 
