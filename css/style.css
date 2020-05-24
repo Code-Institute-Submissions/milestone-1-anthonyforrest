@@ -50,9 +50,8 @@ font-family: 'Montserrat', sans-serif;
 .nav-item:hover {
     font-weight: 700;
 }
-
-.navbar-toggler-icon {
-    color: white;
+.nav-item {
+    text-align: right;
 }
 
 
