@@ -110,6 +110,7 @@ font-family: 'Montserrat', sans-serif;
 /* ---------------------------------------------- Store */
 .store-container{
     background-color: #A29892;
+    color: white;
     padding: 50px;
 }
 
