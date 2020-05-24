@@ -162,6 +162,12 @@ font-family: 'Montserrat', sans-serif;
   margin: auto;
 }
 
+/* Need a solution to have mobile breaks to line up all the store content, found a solution on https://stackoverflow.com/questions/37836821/line-break-on-mobile-phone-only */
+
+@media screen and (min-width: 600px)  {
+        .mobile-break { display: none; }
+    }
+
 /* ---------------------------------------------- Footer */
 
 .footer-container {
