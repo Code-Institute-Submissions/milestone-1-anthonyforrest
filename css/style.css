@@ -149,11 +149,11 @@ font-family: 'Montserrat', sans-serif;
 
 /* ---------------------------------------------- Footer */
 
-.footer {
+.footer-container {
     text-align: center;
     background-color: #322122;
     color: #FBF9F5;
-    min-height: 300px;
+    min-height: 75px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -163,4 +163,12 @@ font-family: 'Montserrat', sans-serif;
     justify-content: center;
     position: relative;
 }
+
+.footer-container i{
+    font-size: 30px;
+    letter-spacing: 30px;
+}
+
+.footer-icons a{
+    color: white;
 }
