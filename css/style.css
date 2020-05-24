@@ -224,3 +224,52 @@ font-family: 'Montserrat', sans-serif;
     max-width: 100%;
     max-height: 100%;
 }
+
+
+/* ---------------------------------------------- Upcoming events section */
+
+/* The following section was taken from the Code insuitute mini resume project and adpated for this website */
+.timeline-heading {
+    margin-bottom: 5px;
+}
+
+.timeline-item {
+    padding: 4em 2em 0em 2em;
+    position: relative;
+    color: #fafafa;
+    border-left: 1px solid;
+}
+
+.timeline-item p {
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:before {
+    content: attr(data-dates);
+    position: absolute;
+    left: 2.5em;
+    top: 3em;
+    display: block;
+    font-family: "Exo", sans-serif;
+    font-weight: 500;
+    font-size: 0.8em;
+    padding: 0;
+    margin: 0;
+}
+
+.timeline-item:after {
+    width: 12px;
+    height: 12px;
+    display: block;
+    top: 2.4em;
+    position: absolute;
+    left: -6px;
+    border-radius: 12px;
+    content: '';
+    background: #fafafa;
+}
+
+.timeline.items {
+    margin-bottom: 30px;
+}
