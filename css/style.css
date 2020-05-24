@@ -31,7 +31,19 @@ font-family: 'Montserrat', sans-serif;
   z-index: 1;
 }
 
+.navbar-color {
+    background-color: #AA3624;
+    color: white;
+}
 
+.navbar-news-margin-bottom{
+    margin-bottom: 20px;
+}
+
+.navbar-color a {
+    background-color: #AA3624;
+    color: white;
+}
 .navbar-nav .current {
     font-weight: 700;
     text-decoration: underline;

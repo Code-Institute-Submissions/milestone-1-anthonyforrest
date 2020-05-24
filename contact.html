@@ -17,7 +17,7 @@
 <body>
 <!-- Here is the navbar -->
         <!-- Bootstrap documentation has been used and modified to create the following navbar -->
-    <nav class="navbar navbar-expand-md navbar-light">
+    <nav class="navbar navbar-expand-md navbar-dark navbar-color">
         <a class="navbar-brand" href="#">
 <!--            <img src="images/logo/Anthong-Forrest-Logo 152x200.jpg" width="50" alt="Sand tropper design"> -->
             Actor Anthony Forrest
@@ -54,12 +54,33 @@
                 <p><img class="sandtrooper-art" src="images/logo/Sandtrooper-Art.jpeg"></p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-12 upcoming-events-contactpage">
-                <h3>Upcoming Events</h3>
-                <p>Detriot, USA</p>
-                <p>Paris, France</p>
-                <p>Gijon, Austurias</p>
-                <p>Amsterdam Arena Convention Center, The Netherlands</p>
+            <!-- The following section was taken from the Code insuitute mini resume project and adpated for this website -->
+            <div class="col-md-4 col-sm-12 upcoming-events-contactpage section-column">
+                <div class="col-12">
+                    <h3 class="timeline-heading">
+                        Upcoming Events
+                    </h3>
+                </div>
+                <div class="timeline-items">
+                    <div class="timeline-item" data-dates="August 15 & 16, 2020">
+                        <h4>Comic Con Amsterdam</h4>
+                        <p>Amsterdam | The Netherlands</p>
+                    </div>
+
+                    <div class="timeline-item" data-dates="August 27-30, 2020"> <!-- always use "data-" to differentiate a custom attribute -->
+                        <h4>Celebration Anaheim II</h4>
+                        <p>Anaheim Convention Center | USA</p>
+                    </div>
+                
+                    <div class="timeline-item" data-dates="November 21 & 22, 2020">
+                        <h4>Dutch Comic Con</h4>
+                        <p>Jaarbeurs Utrecht | The Netherlands</p>
+                    </div>
+                    <div class="timeline-item" data-dates="June 26 - July 5, 2020 ">
+                        <h4>Metropoli</h4>
+                        <p>Gijon | Spain</p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
