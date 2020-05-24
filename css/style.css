@@ -21,7 +21,7 @@ font-family: 'Montserrat', sans-serif;
 /* ---------------------------------------------- Navbar */
 
 /*/* The following code is modified from informaiton found on w3schools https://www.w3schools.com/howto/howto_css_fixed_menu.asp */
-.navbar {
+.navbar-home {
   overflow: hidden;
   background-color: transparent;
   color: transparent;
@@ -45,6 +45,7 @@ font-family: 'Montserrat', sans-serif;
     text-decoration-color: #AA3624;
     -webkit-text-decoration-color: #AA3624;
 }
+
 
 
 /* ---------------------------------------------- Callout and Hero Image */
@@ -109,7 +110,8 @@ font-family: 'Montserrat', sans-serif;
 
 /* ---------------------------------------------- Store */
 .store-container{
-    background-color: #A29892;
+/*    background-color: #A29892; */
+    background-color: black;
     color: white;
     padding: 50px;
 }
