@@ -113,6 +113,10 @@ font-family: 'Montserrat', sans-serif;
     color: white;
     padding: 50px;
 }
+.store-container .modal{
+    color: black;
+    padding: 50px;
+}
 
 .store-image {
     height: 200px;
@@ -154,7 +158,7 @@ font-family: 'Montserrat', sans-serif;
     text-align: center;
     background-color: #322122;
     color: #FBF9F5;
-    min-height: 75px;
+    min-height: 100px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -168,6 +172,10 @@ font-family: 'Montserrat', sans-serif;
 .footer-container i{
     font-size: 30px;
     letter-spacing: 30px;
+}
+
+.footer-container small{
+    font-size: 8px;
 }
 
 .footer-icons a{
