@@ -41,22 +41,18 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .navbar-color a {
-    background-color: #AA3624;
     color: white;
 }
 .navbar-nav .current {
     font-weight: 700;
-    text-decoration: underline;
-    /* following text-dectoration didn't work in Chrome, this is due to chrome requiring the -webkit prefix information about this was found at https://css-tricks.com/almanac/properties/t/text-decoration-color/ */
-    text-decoration-color: #AA3624;
-    -webkit-text-decoration-color: #AA3624;
+
 }
 .nav-item:hover {
     font-weight: 700;
-    text-decoration: underline;
-    /* following text-dectoration didn't work in Chrome, this is due to chrome requiring the -webkit prefix information about this was found at https://css-tricks.com/almanac/properties/t/text-decoration-color/ */
-    text-decoration-color: #AA3624;
-    -webkit-text-decoration-color: #AA3624;
+}
+
+.navbar-toggler-icon {
+    color: white;
 }
 
 
