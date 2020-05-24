@@ -116,6 +116,10 @@ font-family: 'Montserrat', sans-serif;
     padding: 50px;
 }
 
+.about-anthony-header-margin{
+    margin-top: 40px;
+}
+
 /* ---------------------------------------------- Store */
 .store-container{
 /*    background-color: #A29892; */
@@ -286,3 +290,4 @@ font-family: 'Montserrat', sans-serif;
 .timeline.items {
     margin-bottom: 30px;
 }
+
