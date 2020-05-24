@@ -53,7 +53,7 @@ font-family: 'Montserrat', sans-serif;
 /* The following code is taken and modified from https://css-tricks.com/perfect-full-page-background-image/ and the Code Insitute Bootstrap lesson "Updating Our Callout" */
 .callout-container {
     height: 100vh;
-    background: url("../images/hero/Hero003.png") no-repeat top right fixed; 
+    background: url("../images/hero/Hero003.jpg") no-repeat top right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
