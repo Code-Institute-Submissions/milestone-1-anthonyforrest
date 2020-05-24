@@ -200,6 +200,9 @@ font-family: 'Montserrat', sans-serif;
     position: relative;
 }
 
+.news-title {
+    margin-top: 10px;
+}
 
 
 /* ---------------------------------------------- Contact page */
