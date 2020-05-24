@@ -116,8 +116,12 @@ font-family: 'Montserrat', sans-serif;
     padding: 50px;
 }
 
-.about-anthony-header-margin{
-    margin-top: 40px;
+.about-anthony-margin{
+    margin-top: 45px;
+}
+
+.margin-above-film{
+    margin-top: 20px;
 }
 
 /* ---------------------------------------------- Store */
