@@ -13,7 +13,11 @@ The print's that Anthony sells with his autograph are official prints that have 
 ## User Experiece
 
 ### Site Owner's Goal
-I got in contact with Anthony Forrest who wanted a new modern and cleanly designed website to promote himself and also be able to sell different Star Wars merchandise with his autography on it. Anthony was a character in the orginail Star Wars film from 1976 and played 2 different roles. The first was The Fixer which is a friend of the main protagonist, Luke Skywalker, but this was cut from the film before release. The second is a the roll of an iconic Storm Trooper. These characters are important to Star Wars fans and fans pay anywhere between $30 - $60 USD for an autograph.
+I got in contact with Anthony Forrest who wanted a new modern and cleanly designed website to promote himself and also be able to sell different Star Wars merchandise with his autograph on it. Anthony was a character in the original Star Wars film from 1976 and played 2 different roles. 
+
+The first was The Fixer which is a friend of the main protagonist, Luke Skywalker, but this was cut from the film before release. The second is a the roll of an iconic Storm Trooper.
+
+These characters are important to Star Wars fans and fans pay anywhere between $30 - $60 USD for an autograph.
 
 
 ### External User's Goals (User Stories)
@@ -21,7 +25,7 @@ I got in contact with Anthony Forrest who wanted a new modern and cleanly design
 - #### First Time Vistor goals:
     1. Trigger impulse purchase
     2. Provide information about Anthony Forrest
-    3. Provide a schedule
+    3. Provide a schedule of Anthony Forrest
     4. Provide contact and booking information
 
 - #### Returning Visitor goals:
@@ -41,37 +45,37 @@ I got in contact with Anthony Forrest who wanted a new modern and cleanly design
 - #### Feature Left to Implement
     1. The store function is now very basic and relies on the site owner manually contacting potential customers that place an order. The next evolution of this store could include a link with a payment platform so that orders are processed automatically. An option for this could be a link with PayPal.
     2. Some time of content management system would be preferable for the news section. Providing a form for the site owner to fill in that would automatically update the news site would save time and be less prone to mistakes.
-    3. The navbar at the top of the page on the homepage could change color when the user scrolls down to make the text easier to read and avoid the navbar text being projected above other content. This is difficult to impliment due to the need to use JavaScript and is outside the scope of MileStone Project 1.
+    3. The nabar on the homepage could change background color when scrolling down in order to make the text more legible on scroll. From research I've seen that this is possible through the use of JavaScript and toggleing classes. However I could not get this to function correctly.
 
 
 
 ### Design
 
-- #### color
-    - [Canva:](https://www.canva.com/colors/color-palette-generator/) was used to create a color pallete for this website from the logo. And the resulting color palette will be used for this project:
-    - Brown #AA3624
-    - Dark Salmon #DD9060
-    - Black #322122
-    - Beige #FBF9F5
-    - Dark Grey #A29892
+#### color
+- [Canva:](https://www.canva.com/colors/color-palette-generator/) was used to create a color pallete for this website from the logo. And the resulting color palette will be used for this project:
+- Brown #AA3624
+- Dark Salmon #DD9060
+- Black #322122
+- Beige #FBF9F5
+- Dark Grey #A29892
 
 After using the Brown #AA3624 as the main accent color I determined that this was slighty to dark within the design. I therefore used Adobe Photoshop to examine other options for colors within the main logo design and found and strong red that was much more suited to the design. So this color has also been added to the color pallette.
-    - Strong Red #C62223
+- Strong Red #C62223
 
-<b>Output from Canva:</b>
+Output from Canva:
 
 <img src="images/readme/Canva-color-pallete.png" style="margin: 0;">
 
-- #### Imagery
+#### Imagery
     - The product, actor Anthony Forrest, needs to be featured prominently on the website
 
-### Pages
+#### Pages
 The scope of this milestone project is to create a 3-page website. This was an interesting challenge because it requried me to really think about each page and the content to be shown. The page structure needed to fulfill the features of this project are:
 1. Home Page / Store
 2. News
 3. Contact
 
-#### Home Page / Store
+##### Home Page / Store
 The top of the homepage is the first thing that a user will see when visiting the site. For this reason it's important to communicate a few aspects like: Who is the site for?; What is the site about?.
 
 This is achieved by placing Anthony Forrest together with the character Luke Skywalker. This brings legitimacy to him having been in the Star Wars film as well as by pegging the photo to the top right when moving between screen resolutions or to a mobile device Anthony Forrest remains the central focus.
@@ -84,13 +88,13 @@ It is also important to explain who Anthony Forrest is and what he has done on t
 
 Giving users the ability to see when and where they can meet Anthony is also important here so that users don't need to search for this information deeper in the website structure.
 
-#### News Page
+##### News Page
 This page is meant to convey upcoming, ongoing and completed projects. This page also helps with Google rankings by facilitating link-building and content. Here fans can also read up-to-date information about Anthony Forrest.
 
-#### Contact Page
+##### Contact Page
 This page is meant for fans or promotors to get in contact with Anthony. Fans can ask questions and promotors make requests for Anthony to visit their convention. It is important to repeat the Upcoming Events section here so that promoters can see Anthony's current schedule and planning. 
 
-### Wireframes
+#### Wireframes
 This is a 3 page website and was first created as a wireframe for mobile, then tablet, then computer (desktop and laptop) and will utilize bootstrap columns to display the information correctly on each page.
 
 - #### Mobile
