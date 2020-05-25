@@ -51,7 +51,7 @@ These characters are important to Star Wars fans and fans pay anywhere between $
 
 ### Design
 
-#### color
+#### Color
 - [Canva:](https://www.canva.com/colors/color-palette-generator/) was used to create a color pallete for this website from the logo. And the resulting color palette will be used for this project:
 - Brown #AA3624
 - Dark Salmon #DD9060
@@ -66,10 +66,7 @@ Output from Canva:
 
 <img src="images/readme/Canva-color-pallete.png" style="margin: 0;">
 
-#### Imagery
-    - The product, actor Anthony Forrest, needs to be featured prominently on the website
-
-#### Pages
+#### Pages and Imagery
 The scope of this milestone project is to create a 3-page website. This was an interesting challenge because it requried me to really think about each page and the content to be shown. The page structure needed to fulfill the features of this project are:
 1. Home Page / Store
 2. News
