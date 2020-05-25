@@ -89,7 +89,7 @@ font-family: 'Montserrat', sans-serif;
     color: #FBF9F5;
     font-weight: bold;
     margin-bottom: 10px;
-    margin-top: 400px;
+    margin-top: 350px;
 }
 
 .lead {
@@ -98,7 +98,7 @@ font-family: 'Montserrat', sans-serif;
 
 
 .callout-go-to-store-button {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 /* ---------------------------------------------- About Anthony and Events */
@@ -122,6 +122,10 @@ font-family: 'Montserrat', sans-serif;
 
 .margin-above-film{
     margin-top: 20px;
+}
+
+.events-space-left{
+    margin-left: 28px;
 }
 
 /* ---------------------------------------------- Store */

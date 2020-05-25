@@ -121,6 +121,8 @@ This is a 3 page website and was first created as a wireframe for mobile, then t
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+1. [jQuery:](https://jquery.com/)
+    - jQuery came with Bootstrap to make the modals work properly.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
@@ -173,6 +175,8 @@ During testing the code was hosted locally within Gitpod by hosting a server wit
 ## Credits
 
 The bulk of this project has been constructed from code that has been written while using The Code Institute's lessons. The primary resource has been the lessons on using Bootstrap and the mini resume project. Certain elements have been copied from these lessons and modified. These copied sections have been noted in the source code with comments above the snippet that has been copied and used.
+
+[Bootstrap Component Documentation](https://getbootstrap.com/docs/4.5/components/alerts/) was also referenced and used as a basis to make certain components, like the embedded media player, work.
 
 ## Media
 Anthony Forrest, the subject for this project, already has a website with products on it: http://anthonyforrest-starwars.com/ and I have been given permission from him to use the images. High resolution images, like the logo on the contact page, were provided to me via email.
