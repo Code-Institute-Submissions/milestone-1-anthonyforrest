@@ -6,7 +6,8 @@ This concept is being hosted on github, please use the following link to access 
 This README.me was adapted from the example provided by The Code Institute.
 
 ### Copyright Info with relation to Star Wars and Lucasfilm
-The folowing disclaimer has been copied and adapted from [Wookieepedia](https://starwars.fandom.com/wiki/Wookieepedia:Copyrights)
+The folowing disclaimer has been copied from [Wookieepedia](https://starwars.fandom.com/wiki/Wookieepedia:Copyrights)
+
 The print's that Anthony sells with his autograph are official prints that have been created during and for different conventions. Anthony, and this project, make no claim to own Star Wars or any of the copyrights or trademarks related to it. Images used throughout this project are copyrighted to Lucasfilm Limited or another partner of Lucas Licensing, or to the creator of the image. All images are used under 'Fair Use' policy and are of scans physical products that are available for purchase.
 
 ## User Experiece
