@@ -109,25 +109,52 @@ This is a 3 page website and was first created as a wireframe for mobile, then t
 1. [Canva:](https://www.canva.com/colors/color-palette-generator/)
     - Canva was used to extract a color palette from the logo.
 
-### Testing
+## Testing
+### Methodology
 During the building process in GitPod a local server was used to see the effect of changes on a live version of the website. After every change the effects were monitored on the local live version. All the links have been clicked and checked at different screen resolutions to make sure that all the links are referencing the correct pages, sections or components.
 
-During experimentation with different snippets of code they were controlled on multiple points:
-    1. Desktop computer in Google Chrome and Safari
-    2. Laptop computer in Google Chrome and Safari
-    3. Mobile view via Inspect options on Google Chrome
-    4. Responsiveness of the site while moving through different screen resolutions from a width of 300px -> 1400px
+Experimentation with different snippets of code they were controlled on multiple points:
+1. Desktop computer in Google Chrome and Safari
+1. Laptop computer in Google Chrome and Safari
+1. Mobile view via Inspect options on Google Chrome
+1. Responsiveness of the site while moving through different screen resolutions from a width of 300px -> 1400px
 
-## HTML Validation
-This has checking useing validator.w3.org - https://validator.w3.org/nu/?doc=https%3A%2F%2Fasforrest.github.io%2Fmilestone-1-anthonyforrest%2F
+### HTML Validation
+The HTML code has been checked using [validator.w3.org](https://validator.w3.org/nu/?doc=https%3A%2F%2Fasforrest.github.io%2Fmilestone-1-anthonyforrest%2F)
 
 - #### There were 14 errors found:
     - [See test results](https://asforrest.github.io/milestone-1-anthonyforrest/W3-Nu-Html-Checker-test-results.pdf)
     - 12 errors are related to incorrect use of "aria-labelledby" being used incorrectly because they don't point to attributes in the same document. The solution was to remove these labels as they are not required for the purposes of this site.
     - 2 errors are related to spaces being used between the &nbsp (space in HTML) and text. The solution was to remove this space.
 
-## Gitpod Reminders
+After making these changes, the HTML code came back as having no errors:
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+<img src="images/readme/HTML-checker-result.png">
 
-`python3 -m http.server`
+### CSS Validation
+The CSS code has been checked using jigsaw.w3.org's [CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+
+The CSS code came back as having no errors:
+
+<img src="images/readme/CSS-checker-result.png">
+
+### Contact with Mentor
+My mentor Jonathan Munz was impressed by the way the site looks and feels and has given great feedback about points to address.
+
+## Deployment
+This project is hosted on a GitHub repository and has been deployed using GitHub pages.
+
+This project has 50+ commits where notes have been made as to what changes are made, what resources were used and which bugs were solved. These commits can also be used to take a look at the development process throughout all the steps in the process: [GitHub Commits](https://github.com/asforrest/milestone-1-anthonyforrest)
+During testing the code was hosted locally within Gitpod by hosting a server with the teminal command "python3 -m http.server" which allowed me to open the project and view any changes before commiting to GitHub.
+
+## Credits
+
+The bulk of this project has been constructed from code that has been written while using The Code Institute's lessons. The primary resource has been the lessons on using Bootstrap and the mini resume project. Certain elements have been copied from these lessons and modified. These copied sections have been noted in the source code with comments above the snippet that has been copied and used.
+
+## Media
+Anthony Forrest, the subject for this project, already has a website with products on it: http://anthonyforrest-starwars.com/ and I have been given permission from him to use the images. High resolution images, like the logo on the contact page, were provided to me via email.
+
+Other resources for media include the embedded YouTube video on the homepage from YouTube Channel: [Build Series](https://www.youtube.com/channel/UClZmCCcrhNaXhWYvZNIolWg)
+
+Images used in the news items section are screenshots from those videos and also link to the videos they are a screenshot of. These screenshots and YouTube links belong to the channels: [CBS This Morning](https://www.youtube.com/channel/UC-SJ6nODDmufqBzPBwCvYvQ), [AOL Build Series](https://www.youtube.com/channel/UClZmCCcrhNaXhWYvZNIolWg), [It's Erik Nagel](https://www.youtube.com/channel/UCZsglkJyW0T00g01FXmxRNQ), and [Cast Sutra](https://www.youtube.com/channel/UCGme36OHxUXi0XdAJFYRFUA).
+
