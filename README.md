@@ -109,6 +109,23 @@ This is a 3 page website and was first created as a wireframe for mobile, then t
 1. [Canva:](https://www.canva.com/colors/color-palette-generator/)
     - Canva was used to extract a color palette from the logo.
 
+### Testing
+During the building process in GitPod a local server was used to see the effect of changes on a live version of the website. After every change the effects were monitored on the local live version. All the links have been clicked and checked at different screen resolutions to make sure that all the links are referencing the correct pages, sections or components.
+
+During experimentation with different snippets of code they were controlled on multiple points:
+    1. Desktop computer in Google Chrome and Safari
+    2. Laptop computer in Google Chrome and Safari
+    3. Mobile view via Inspect options on Google Chrome
+    4. Responsiveness of the site while moving through different screen resolutions from a width of 300px -> 1400px
+
+## HTML Validation
+This has checking useing validator.w3.org - https://validator.w3.org/nu/?doc=https%3A%2F%2Fasforrest.github.io%2Fmilestone-1-anthonyforrest%2F
+
+- #### There were 14 errors found:
+    - [See test results](https://asforrest.github.io/milestone-1-anthonyforrest/W3-Nu-Html-Checker-test-results.pdf)
+    - 12 errors are related to incorrect use of "aria-labelledby" being used incorrectly because they don't point to attributes in the same document. The solution was to remove these labels as they are not required for the purposes of this site.
+    - 2 errors are related to spaces being used between the &nbsp (space in HTML) and text. The solution was to remove this space.
+
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
