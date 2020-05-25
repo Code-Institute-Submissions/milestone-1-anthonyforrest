@@ -54,6 +54,16 @@ font-family: 'Montserrat', sans-serif;
     text-align: right;
 }
 
+.navbar-dark{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.padding-top-contact, .padding-top-news {
+    padding-top: 45px;
+}
 
 
 /* ---------------------------------------------- Callout and Hero Image */
@@ -226,7 +236,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .news-title {
-    margin-top: 10px;
+    padding-top: 30px;
 }
 
 
@@ -249,7 +259,6 @@ font-family: 'Montserrat', sans-serif;
     max-width: 100%;
     max-height: 100%;
 }
-
 
 /* ---------------------------------------------- Upcoming events section */
 
