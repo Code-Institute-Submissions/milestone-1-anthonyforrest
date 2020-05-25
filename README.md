@@ -63,6 +63,31 @@ After using the Brown #AA3624 as the main accent color I determined that this wa
 - #### Imagery
     - The product, actor Anthony Forrest, needs to be featured prominently on the website
 
+### Pages
+The scope of this milestone project is to create a 3-page website. This was an interesting challenge because it requried me to really think about each page and the content to be shown. The page structure needed to fulfill the features of this project are:
+1. Home Page / Store
+2. News
+3. Contact
+
+#### Home Page / Store
+The top of the homepage is the first thing that a user will see when visiting the site. For this reason it's important to communicate a few aspects like: Who is the site for?; What is the site about?.
+
+This is achieved by placing Anthony Forrest together with the character Luke Skywalker. This brings legitimacy to him having been in the Star Wars film as well as by pegging the photo to the top right when moving between screen resolutions or to a mobile device Anthony Forrest remains the central focus.
+
+It was also important to communicate that people could buy products from the site and by providing a call to action link that takes people directly to the store this is achieved.
+
+Having the store on the homepage as opposed to a different page was done to lower any barriers for potential customers to make a purchase. By not placing the store on a seperate page people have to click less in order to purchase a product. Sales is also the main focus of the site and therefore it's improtant to give it a prominent position.
+
+It is also important to explain who Anthony Forrest is and what he has done on this page for users who have not earlier heard about Anthony Forrest or the roll he played in Star Wars. This is achieved in the About Anthony section.
+
+Giving users the ability to see when and where they can meet Anthony is also important here so that users don't need to search for this information deeper in the website structure.
+
+#### News Page
+This page is meant to convey upcoming, ongoing and completed projects. This page also helps with Google rankings by facilitating link-building and content. Here fans can also read up-to-date information about Anthony Forrest.
+
+#### Contact Page
+This page is meant for fans or promotors to get in contact with Anthony. Fans can ask questions and promotors make requests for Anthony to visit their convention. It is important to repeat the Upcoming Events section here so that promoters can see Anthony's current schedule and planning. 
+
 ### Wireframes
 This is a 3 page website and was first created as a wireframe for mobile, then tablet, then computer (desktop and laptop) and will utilize bootstrap columns to display the information correctly on each page.
 
@@ -96,8 +121,6 @@ This is a 3 page website and was first created as a wireframe for mobile, then t
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
@@ -158,3 +181,10 @@ Other resources for media include the embedded YouTube video on the homepage fro
 
 Images used in the news items section are screenshots from those videos and also link to the videos they are a screenshot of. These screenshots and YouTube links belong to the channels: [CBS This Morning](https://www.youtube.com/channel/UC-SJ6nODDmufqBzPBwCvYvQ), [AOL Build Series](https://www.youtube.com/channel/UClZmCCcrhNaXhWYvZNIolWg), [It's Erik Nagel](https://www.youtube.com/channel/UCZsglkJyW0T00g01FXmxRNQ), and [Cast Sutra](https://www.youtube.com/channel/UCGme36OHxUXi0XdAJFYRFUA).
 
+## Acknowledgements
+
+I received inspiration from Anthony Forrest's current website for the color palette and information to be included.
+
+For the store section I looked at the app Zalando Lounge to see how an effective store lines out it's content.
+
+My mentor Jonathan Munz has been essential in confirming my direction and giving input as to elements which would be found on the site. Orignally I had 2 different projects in mind, the first was a website to promote myself as a videographer and the second was the site for my father Anthony Forrest because he was looking for an updated design for his website. During my discussion's with Jonathan we decided that using my father as the subject for this project would be a better fit due to content being available (from him and from his current website) and also because the subject matter is interesting.
